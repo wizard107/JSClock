@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    font-family: "Helvetica"
+}
+
+h1{
+    color: red;
+}
+
+#time{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 60px;
+    text-align: center;
+    color: #76afe8;
+    letter-spacing: 7px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.wrapper{
+    width: 800px;
+    color: gray;
+    text-align: center;
+}
